@@ -38,7 +38,7 @@
 4. model evaluation(matrix, precision, recall, f1, ROC, AUC-ROC);
 5. financial analysis.
 
-Required libraries:
+To get started install the libraries you need::
 
 - `pip3 install pandas`
 - `pip3 install numpy`
