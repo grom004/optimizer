@@ -10,14 +10,13 @@
 
 
 
+Необходимые библиотеки:
 
-
-
-pip install pandas
-pip install numpy
-pip install scikit-learn
-pip install seaborn
-pip install matplotlib
+1. `pip3 install pandas`
+2. `pip3 install numpy`
+3. `pip3 install scikit-learn`
+4. `pip3 install seaborn`
+5. `pip3 install matplotlib`
 
 
 
