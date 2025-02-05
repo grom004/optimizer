@@ -22,9 +22,9 @@
   
 2. Создать виртуальную среду: `python3 -m venv venv`
    
-4. Активировать виртуальную среду: `source venv/bin/activate`
+3. Активировать виртуальную среду: `source venv/bin/activate`
    
-5. Запуск кода: `python3 optimizer.py`
+4. Запуск кода: `python3 optimizer.py`
 
 
 
@@ -32,8 +32,28 @@
 
 #### The program analyzes user behavior, trains a logistic regression model to predict their actions, and evaluates the financial effectiveness of displays. It cleans and merges data, calculates key activity metrics, predicts response probability, and assesses interaction profitability:
 
-- data loading and preprocessing;
-- trigger and action analysis;
-- machine learning model training;
-- model evaluation(matrix, precision, recall, f1, ROC, AUC-ROC);
-- financial analysis.
+1. data loading and preprocessing;
+2. trigger and action analysis;
+3. machine learning model training;
+4. model evaluation(matrix, precision, recall, f1, ROC, AUC-ROC);
+5. financial analysis.
+
+Required libraries:
+
+- `pip3 install pandas`
+- `pip3 install numpy`
+- `pip3 install scikit-learn`
+- `pip3 install seaborn`
+- `pip3 install matplotlib`
+
+Start the program:
+
+1. Go to the project directory: `cd /...`
+
+2. Create a virtual environment: `python3 -m venv venv`
+
+3. Activate the virtual environment: `source venv/bin/activate`
+
+4. Run the code: `python3 optimizer.py`
+
+
