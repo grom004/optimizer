@@ -8,14 +8,6 @@
 4. оценка модели (матрица, точность, отзыв, f1, ROC, AUC-ROC);
 5. финансовый анализ.
 
-Необходимые библиотеки:
-
-- `pip3 install pandas`
-- `pip3 install numpy`
-- `pip3 install scikit-learn`
-- `pip3 install seaborn`
-- `pip3 install matplotlib`
-
 Запуск программы:
 
 1. Перейти в директорию проекта: `cd /...`
@@ -30,6 +22,7 @@
       - `pip3 install scikit-learn`
       - `pip3 install seaborn`
       - `pip3 install matplotlib`
+        
 5. Запуск кода: `python3 optimizer.py`
 
 
@@ -44,14 +37,6 @@
 4. model evaluation(matrix, precision, recall, f1, ROC, AUC-ROC);
 5. financial analysis.
 
-To get started install the libraries you need::
-
-- `pip3 install pandas`
-- `pip3 install numpy`
-- `pip3 install scikit-learn`
-- `pip3 install seaborn`
-- `pip3 install matplotlib`
-
 Start the program:
 
 1. Go to the project directory: `cd /...`
@@ -60,6 +45,13 @@ Start the program:
 
 3. Activate the virtual environment: `source venv/bin/activate`
 
-4. Run the code: `python3 optimizer.py`
+4. Install the necessary libraries:
+      - `pip3 install pandas`
+      - `pip3 install numpy`
+      - `pip3 install scikit-learn`
+      - `pip3 install seaborn`
+      - `pip3 install matplotlib`
+
+5. Run the code: `python3 optimizer.py`
 
 
