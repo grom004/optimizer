@@ -23,8 +23,14 @@
 2. Создать виртуальную среду: `python3 -m venv venv`
    
 3. Активировать виртуальную среду: `source venv/bin/activate`
-   
-4. Запуск кода: `python3 optimizer.py`
+
+4. Установка необходимых библиотек:
+      - `pip3 install pandas`
+      - `pip3 install numpy`
+      - `pip3 install scikit-learn`
+      - `pip3 install seaborn`
+      - `pip3 install matplotlib`
+5. Запуск кода: `python3 optimizer.py`
 
 
 
