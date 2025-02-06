@@ -10,20 +10,20 @@
 
 Запуск программы:
 
-1. Перейти в директорию проекта: `cd /...`
+1. Перейти в директорию проекта: `cd /dir_name`
   
-2. Создать виртуальную среду: `python3 -m venv venv`
+3. Создать виртуальную среду: `python3 -m venv venv`
    
-3. Активировать виртуальную среду: `source venv/bin/activate`
+4. Активировать виртуальную среду: `source venv/bin/activate`
 
-4. Установка необходимых библиотек:
+5. Установка необходимых библиотек:
       - `pip3 install pandas`
       - `pip3 install numpy`
       - `pip3 install scikit-learn`
       - `pip3 install seaborn`
       - `pip3 install matplotlib`
         
-5. Запуск кода: `python3 optimizer.py`
+6. Запуск кода: `python3 optimizer.py`
 
 
 
@@ -39,7 +39,7 @@
 
 Start the program:
 
-1. Go to the project directory: `cd /...`
+1. Go to the project directory: `cd /dir_name`
 
 2. Create a virtual environment: `python3 -m venv venv`
 
