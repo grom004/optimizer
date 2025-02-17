@@ -47,6 +47,15 @@ Event Seq с действиями пользователей:
 
 [Cкачать CSV-файлы здесь.](https://disk.yandex.ru/d/KetMP60FvKsK9Q)
 
+
+Ограничения в задаче:
+1. В рамках задачи нельзя взаимодействовать с пользователем чаще чем один раз в две недели. 
+2. Стоимость одного показа баннера: 1$. 
+3. Вознаграждение за результативный показ: 5$. 
+4. Нужно получить максимальный оборот, при положительном балансе. 
+
+
+
 ---
 
 #### The program analyzes user behavior, trains a logistic regression model to predict their actions, and evaluates the financial effectiveness of displays. It cleans and merges data, calculates key activity metrics, predicts response probability, and assesses interaction profitability:
