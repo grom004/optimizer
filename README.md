@@ -38,7 +38,7 @@ Event Seq с действиями пользователей:
   - **date** - дата взаимодействия с пользователем;
   - **result** - 0 если пользователь нет заинтересовался предложением, 1 иначе.
 
-triggers.csv:
+#### triggers.csv:
 
 - **guid** - идентификатор пользователя;
 - **date** - дата посещения;
@@ -73,5 +73,24 @@ Start the program:
       - `pip3 install matplotlib`
 
 5. Run the code: `python3 optimizer.py`
+
+
+The program is one of the solutions to the following technical problem. There are counters for visiting different sites on the Internet. When a user visits a site or an application, his action is logged in the triggers.csv file. Also, the company has several redeemed banners that show offers to register in the company's new video service. If a user is interested in the offer, he clicks on it, which is logged in the actions.csv file.
+
+Event Seq with user actions:
+- **triggers.csv** - visits;
+- **actions.csv** - shows.
+
+#### actions.csv:
+  - **guid** - user id;
+  - **date** - date of interaction with the user;
+  - **result** - 0 if the user was not interested in the offer, 1 otherwise.
+
+#### triggers.csv:
+
+- **guid** - user id;
+- **date** - date of visit;
+- **trigger** - resource identifier;
+- **type** - type of metric collection.
 
 [Download CSV here.](https://disk.yandex.ru/d/KetMP60FvKsK9Q)
