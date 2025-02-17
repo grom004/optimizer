@@ -49,9 +49,9 @@ Event Seq с действиями пользователей:
 
 
 Ограничения в задаче:
-1. В рамках задачи нельзя взаимодействовать с пользователем чаще чем один раз в две недели. 
-2. Стоимость одного показа баннера: 1$. 
-3. Вознаграждение за результативный показ: 5$. 
+1. В рамках задачи нельзя взаимодействовать с пользователем чаще чем один раз в две недели;
+2. Стоимость одного показа баннера: 1$;
+3. Вознаграждение за результативный показ: 5$;
 4. Нужно получить максимальный оборот, при положительном балансе. 
 
 
@@ -103,3 +103,9 @@ Event Seq with user actions:
 - **type** - type of metric collection.
 
 [Download CSV here.](https://disk.yandex.ru/d/KetMP60FvKsK9Q)
+
+The limits of the task are:
+1. You cannot communicate with the user more than once every two weeks;
+2. Cost of one banner display: 1$;
+3. Reward for a successful display: 5$;
+4. We need to get the maximum turnover, with a positive balance. 
