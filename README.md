@@ -25,7 +25,7 @@
         
 6. Запуск кода: `python3 optimizer.py`
 
-[скачать](https://disk.yandex.ru/d/KetMP60FvKsK9Q)
+[Cкачать CSV-файлы здесь](https://disk.yandex.ru/d/KetMP60FvKsK9Q)
 
 
 ---
