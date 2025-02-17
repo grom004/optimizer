@@ -17,7 +17,7 @@
 4. Активировать виртуальную среду: `source venv/bin/activate`
 
 5. Установка необходимых библиотек:
-      - ```pip3 install pandas```
+      - `pip3 install pandas`
       - `pip3 install numpy`
       - `pip3 install scikit-learn`
       - `pip3 install seaborn`
