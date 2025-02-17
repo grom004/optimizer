@@ -10,15 +10,14 @@
 
 Запуск программы:
 
-1. Перейти в директорию проекта:
-                `cd /dir_name`
+1. Перейти в директорию проекта: `cd /dir_name`
   
 3. Создать виртуальную среду: `python3 -m venv venv`
    
 4. Активировать виртуальную среду: `source venv/bin/activate`
 
 5. Установка необходимых библиотек:
-      - ```pip3 install pandas```
+```pip3 install pandas```
       - `pip3 install numpy`
       - `pip3 install scikit-learn`
       - `pip3 install seaborn`
