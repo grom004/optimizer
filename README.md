@@ -25,7 +25,7 @@
         
 6. Запуск кода: `python3 optimizer.py`
 
-[Cкачать CSV-файлы здесь](https://disk.yandex.ru/d/KetMP60FvKsK9Q)
+[Cкачать CSV-файлы здесь.](https://disk.yandex.ru/d/KetMP60FvKsK9Q)
 
 
 ---
@@ -55,4 +55,4 @@ Start the program:
 
 5. Run the code: `python3 optimizer.py`
 
-
+[Download CSV here.](https://disk.yandex.ru/d/KetMP60FvKsK9Q)
